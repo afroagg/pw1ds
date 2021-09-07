@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Cuprum&display=swap');
+
+.margin{
+margin: 0px auto;
+width: 900px;
+}
+
+html{
+background: url(../img/fundohxh.jpeg);
+background-size: cover;
+}
+
+.bloco{
+background-color: rgb(152, 153, 211);
+border: 3px solid #fff;
+margin-top: 20px;
+padding: 30px;
+}
+
+.center{
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 50%;
+}
+
+.center2{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 105%;
+    }
+
+.img{
+border: 3px solid rgb(255, 255, 255);
+float: left;
+margin: 15px 15px 0 0;
+padding: 2px;
+vertical-align: top;
+}
+
+.clear{
+clear: both;
+}
+
+.bloco p{
+font-family: 'Cuprum', sans-serif;
+font-size: 18px;
+text-align: justify;
+line-height: 1.5;
+}
+
+h1{
+font-family: 'Electrolize', sans-serif;
+font-size: 40px;
+text-align: center;    
+}
+
+h2{
+font-family: 'Electrolize', sans-serif;
+font-size: 30px;
+text-align: center;    
+}
+
+ul{
+font-family: 'Cuprum', sans-serif;
+font-size: 18px;
+text-align: justify;
+line-height: 1.5;    
+}
+
+h3{
+font-family: 'Electrolize', sans-serif;
+font-size: 23px;
+}
